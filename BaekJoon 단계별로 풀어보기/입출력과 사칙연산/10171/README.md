@@ -17,7 +17,7 @@
 
 테스트입니다.
 
-```java
+```javascript
 public class Cat {
     public static void main(String[] args) {
 
