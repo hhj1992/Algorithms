@@ -15,7 +15,7 @@
 
 ### 문제 풀이
 
-테스트입니다.
+/입력시엔 /를 앞에 붙여주세요.
 
 ```javascript
 public class Cat {
