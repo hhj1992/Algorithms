@@ -19,8 +19,6 @@
 
 ### - Scanner 사용법
 
----
-
 ```java
 import java.util.Scanner;
 
@@ -48,8 +46,6 @@ public class AplusB {
 - Scanner을 Close해준다.
 
 ### - BufferedReader 사용법
-
----
 
     BufferedReader.read() : 한 문자를 읽는다.
     BufferedReader.readLine() : 한 행을 읽는다.
@@ -88,9 +84,6 @@ public class APlusB {
 - br을 한줄씩 읽어서 str에 담는다
 - StringTokenizer 인스턴스를 생성해서 지정된 구분자로 한줄씩 읽은 문자열 str을 Parsing해서 st에 담는다
 - nextToken()은 구분된 문자열을 반환해준다. Integer.parseInt로 int로 바꿔준다.
-
-`BufferedReader.read() : 한 문자를 읽는다.`  
-`BufferedReader.readLine() : 한 행을 읽는다.`
 
 ##### 2.split(구분자) 이용
 
